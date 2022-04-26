@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+
+.Header {
+    margin-bottom: 100px;
+}
+
+.Instagram{
+    border: 2px solid black;
+    margin-bottom: px;
+    margin: 20px;
+}
+
+.Website{
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.LinkedIn{
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.Github{
+    border: 2px solid black;
+    margin: 20px;
+}
+
